@@ -1,0 +1,27 @@
+body{
+	color: #5a5a5a;
+}
+.profile{
+	padding: 65px 0 0px;
+}
+.profile-container{
+	min-height: 400px;
+}
+.cust-color{
+	color: #5a5a5a;
+}
+.cust-font{
+	font-size: 45px;
+	font-weight: 500;
+}
+.featurette-divider{
+	margin: 5rem 0;
+}
+footer{
+	padding-bottom: 6rem;
+}
+@media (max-width: 991px) {
+	.profile-container{
+	min-height: auto;
+}
+}
